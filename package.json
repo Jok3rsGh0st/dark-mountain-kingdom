@@ -1,0 +1,14 @@
+{
+  "name": "role_play_bot",
+  "version": "1.0.0",
+  "description": "Role-play bot for admin on Role-Play server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jok3rsGh0st",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
