@@ -6,8 +6,7 @@ const bot = new Discord.Client({disableEveryone: true});
 
 bot.on("ready", async () => {
   console.log(`${bot.user.username} is online!`);
-  //bot.user.setGame("Pokemon Go!")
-  bot.user.setActivity("Pokemon Go!")
+  bot.user.setActivity("Dark Mountain Kingdom!")
 });
 
 bot.on("message", async message => {
